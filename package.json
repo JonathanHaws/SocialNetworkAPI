@@ -4,7 +4,8 @@
   "description": "Routes for crud operations for social media site. Using Mongo",
   "main": "develop/index.js",
   "scripts": {
-    "local": "nodemon develop/server.js"
+    "local": "nodemon develop/server.js",
+    "seed": "node develop/database/seed.js"
   },
   "repository": {
     "type": "git",
