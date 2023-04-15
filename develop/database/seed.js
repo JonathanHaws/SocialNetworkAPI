@@ -7,16 +7,12 @@ const users = [
   {
     username: 'Jonathan',
     email: 'jonathan@example.com',
-    thoughts: [
-      { thoughtText: 'Automatic Test Seeded Thought 1' }
-    ]
+    thoughts: [{ thoughtText: 'Automatic Test Seeded Thought 1' }]
   },
   {
     username: 'Mark',
     email: 'mark@example.com',
-    thoughts: [
-      { thoughtText: 'Automatic Test Seeded Thought 2' }
-    ]
+    thoughts: [{ thoughtText: 'Automatic Test Seeded Thought 2' }]
   }
 ];
 
